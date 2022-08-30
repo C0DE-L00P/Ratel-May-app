@@ -1,6 +1,7 @@
 # Ratel May Sample App
 Made for Ratel May Academy in August 2022  
 
+![img3](https://user-images.githubusercontent.com/43136060/187490273-ab152881-48ad-4dd2-9599-3c6500460d54.png)
 ![img1](https://user-images.githubusercontent.com/43136060/187490006-0feb5e2e-e41d-46ba-b88d-8eff8ae99b2f.png)
 ![img2](https://user-images.githubusercontent.com/43136060/187490012-53f02f25-8ad2-4e0f-ac48-a4eb4f73953c.png)
 
